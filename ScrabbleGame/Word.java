@@ -1,4 +1,3 @@
-// Word.java
 public class Word implements Comparable<Word> {
     private String text;
 
